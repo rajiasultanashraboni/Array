@@ -32,11 +32,13 @@ const fetchCategories = async () => {
 **Example:**
 const petName = 'Max';
 console.log(`Adopt your new friend, ${petName}!`);
-Destructuring: Destructuring allows for extracting values from arrays or properties from objects in a concise manner, ideal for handling API responses.
+
+- **Destructuring:** Destructuring allows for extracting values from arrays or properties from objects in a concise manner, ideal for handling API responses.
 
 **Example:**
 const { category, pets } = responseData;
-Default Parameters: Functions can have default parameter values, which are useful for providing fallback values when no arguments are passed.
+
+- **Default Parameters:** Functions can have default parameter values, which are useful for providing fallback values when no arguments are passed.
 
 **Example:**
 function fetchPets(type = 'all') {

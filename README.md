@@ -23,30 +23,30 @@ In the Peddy - Pet Adoption Platform, various ES6 features are likely used to en
 
 - **Arrow Functions:** Arrow functions provide a concise syntax for writing functions, especially useful for callbacks and promise handling.
 
-**Example:**
+* **Example:**
 const fetchCategories = async () => {
   // Fetching data logic
 };
 - **Template Literals:** Template literals make it easier to embed expressions within strings, allowing cleaner code when dealing with dynamic content, such as rendering pet details.
 
-**Example:**
+* **Example:**
 const petName = 'Max';
 console.log(`Adopt your new friend, ${petName}!`);
 
 - **Destructuring:** Destructuring allows for extracting values from arrays or properties from objects in a concise manner, ideal for handling API responses.
 
-**Example:**
+* **Example:**
 const { category, pets } = responseData;
 
 - **Default Parameters:** Functions can have default parameter values, which are useful for providing fallback values when no arguments are passed.
 
-**Example:**
+* **Example:**
 function fetchPets(type = 'all') {
   // Fetch logic for pets
 }
 - **Modules (Import/Export):** ES6 modules enable cleaner separation of code by allowing importing and exporting functionality across different files.
 
-**Example:**
+* **Example:**
 import { fetchCategories } from './api.js';
 These ES6 features contribute to writing cleaner and more efficient JavaScript in modern web development.
 

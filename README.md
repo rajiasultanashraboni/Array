@@ -1,17 +1,18 @@
-# Peddy - Pet Adoption Platform
+# Project Name : Peddy - Pet Adoption Platform
+##Short description of the project
 Peddy - Pet Adoption Platform is a web-based application designed to simplify and enhance the process of pet adoption. It serves as a bridge between animal shelters, rescues, and individuals looking to adopt pets, providing an intuitive interface where users can browse through various categories of animals available for adoption. The platform offers detailed profiles for each pet, including their health status, breed, age, and personality traits, to help prospective adopters find the right match. Additionally, Peddy promotes the adoption process with resources and guides, ensuring the journey from browsing to adopting is seamless and efficient.
 ## 5 key features of the project
-  Here are five key features of the Peddy - Pet Adoption Platform:
+###Here are five key features of the Peddy - Pet Adoption Platform:
 
-Pet Category Browsing: Users can browse through various categories such as dogs, cats, and other animals, with detailed filters for age, breed, and size to help them find the perfect match.
+##Pet Category Browsing: Users can browse through various categories such as dogs, cats, and other animals, with detailed filters for age, breed, and size to help them find the perfect match.
 
-Detailed Pet Profiles: Each pet comes with a profile showcasing their health status, behavior, and other essential details, allowing users to make informed decisions before adoption.
+##Detailed Pet Profiles: Each pet comes with a profile showcasing their health status, behavior, and other essential details, allowing users to make informed decisions before adoption.
 
-Responsive Design: The platform is fully responsive, providing a seamless user experience across desktop, tablet, and mobile devices.
+##Responsive Design: The platform is fully responsive, providing a seamless user experience across desktop, tablet, and mobile devices.
 
-Adoption Resources: Users have access to guides and tips related to pet adoption, helping them navigate the process with ease.
+##Adoption Resources: Users have access to guides and tips related to pet adoption, helping them navigate the process with ease.
 
-User-Friendly Navigation: The platform includes features like a mobile-friendly hamburger menu and smooth scrolling, making it easy to navigate and access all necessary sections.
+##User-Friendly Navigation: The platform includes features like a mobile-friendly hamburger menu and smooth scrolling, making it easy to navigate and access all necessary sections.
 
 These features make Peddy a robust platform for connecting pets with loving families.
 
